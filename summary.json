@@ -1,0 +1,24 @@
+{
+    "id": "Tid",
+    "ProjectId": "P1",
+    "ProjectName": "ProjectName",
+    "CompletedPercentage": 60,
+    "ScaledTons": 1000,
+    "PavedTons": 500,
+    "CompletedLoads": 500,
+    "HoursRemaining": 5.5,
+    "TonsRemaining": 500,
+    "LoadsRemaining": 10,
+    "TonsPerHour": {
+        "Actual": 5,
+        "Planned": 5
+    },
+    "TimeAtPlantInMin": {
+        "Actual": 6,
+        "Planned": 7
+    },
+    "AvgLoadInTons": {
+        "Actual": 600,
+        "Planned": 500
+    }
+} 
